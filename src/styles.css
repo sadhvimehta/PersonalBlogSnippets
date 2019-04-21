@@ -39,9 +39,12 @@ body {
   transition-timing-function: linear;
   transition-duration: 5ms;
   cursor: pointer;
-  font-size: 25px;
   margin-bottom: 10px;
   display: inline-block;
+  font-family: "Playfair Display";
+  font-size: 25px;
+  font-variant: small-caps;
+  font-weight: 100;
 }
 
 .labels:hover {
