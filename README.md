@@ -1,2 +1,0 @@
-# PersonalBlogSnippets
-Created with CodeSandbox
