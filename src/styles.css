@@ -29,6 +29,15 @@ body {
   float: right;
 }
 
+@media all and (max-device-aspect-ratio: 7/12) and (orientation: portrait) {
+  .home-img,
+  .menu {
+    float: none;
+    width: auto;
+    height: 50%;
+  }
+}
+
 .labels {
   border: 5px;
   height: 30px;
