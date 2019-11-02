@@ -19,6 +19,8 @@
 *.sublime-workspace
 
 # IDE - VSCode
+src/.vs/*
+.vs/*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -41,3 +43,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# IDE - IntelliJ
+package.json
+package-lock.json
+protractor.conf.js
